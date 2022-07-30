@@ -4,7 +4,7 @@ workflows:
     max_build_duration: 30
     environment:
       vars:
-        PACKAGE_NAME: "app.bistro-japan.ru"
+        PACKAGE_NAME: "ru.bistro-japan.app"
       flutter: stable
       xcode: latest
       cocoapods: default
